@@ -13,6 +13,8 @@ Calculadora tem um teclado digital.
 * Após click com botão esquerdo do mouse na operação desejada.
 * Escolhas próximo número para fazer operação.
 * Click no sinal de igual para mostrar o resultado no displays.
+* Caso queira zerar a calculadora click em 'AC'.
+* Caso queira trocar o sinal, click em '±'.
 
 ## Funcionamento do arquivo jar
 As instruções abaixo ir ajudar a roda o arquivo jar do projeto. Para isso, siga o passo-a-passo abaixo:
