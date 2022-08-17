@@ -42,5 +42,5 @@ As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o pas
 
 ## Pontos a melhorar
 * Fazer a tecla de porcentagem.
-* Fazer histórico da conta.
+* Mostrar histórico das contas.
 
