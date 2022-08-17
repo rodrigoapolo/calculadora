@@ -21,9 +21,8 @@ As instruções abaixo ir ajudar a roda o arquivo jar do projeto. Para isso, sig
 
 2. Com JDK 11 instalada na sua máquina. Abra o terminal onde está o arquivo baixado no passo 1.
 
-3. Execute o arquivo 'campo-minado.jar' no terminal. Com o comando ```java -jar campo-minado.jar```.
+3. Execute o arquivo 'campo-minado.jar' no terminal. Com o comando ```java -jar Calculadora.jar```.
 
-4. Com a tela aberta coloque a quantidade de linhas, colunas e minas que gostaria de jogar (Dica: Linha 16, Coluna 30, mina 50)
 
 ## Funcionamento do projeto Main
 As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o passo-a-passo abaixo:
@@ -38,4 +37,8 @@ As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o pas
 * Lambda 
 * Swing
 * Estrutura Observe
+
+## Pontos a melhorar
+* Fazer a tecla de porcentagem.
+* Fazer histórico da conta.
 
