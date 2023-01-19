@@ -39,8 +39,3 @@ As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o pas
 * Lambda 
 * Swing
 * Estrutura Observe
-
-## Pontos a melhorar
-* Fazer a tecla de porcentagem.
-* Mostrar histórico das contas.
-
